@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/geofaredk/geofare.dk/refs/heads/main/src/assets/brand.svg" alt="geofare" width="150">
-
 **Make good decisions when it matters.**
 
 We want communities to be safer. So we combine what we see on site with geodata and modelling, turn it into risk information you can act on, and help you find the measures that reduce the risk.
