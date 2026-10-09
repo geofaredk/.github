@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/geofaredk/geofare.dk/refs/heads/main/src/assets/brand.svg" alt="geofare" width="260">
+<img src="https://raw.githubusercontent.com/geofaredk/geofare.dk/refs/heads/main/src/assets/brand.svg" alt="geofare" width="150">
 
 **Make good decisions when it matters.**
 
